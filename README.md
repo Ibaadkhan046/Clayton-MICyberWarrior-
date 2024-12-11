@@ -1,5 +1,5 @@
 ## CLAYTON SCRIPT BY MI CYBER WARRIOR 
-## JOIN HERE https://t.me/claytoncoinbot/game?startapp=6631952857
+**JOIN HERE** https://t.me/claytoncoinbot/game?startapp=6631952857
 ## Features
 
   - Auto Get Account Information
@@ -36,4 +36,4 @@ pkg install python rust git -y
 ```bash
 python bot.py
 ```
-**TUTORIAL AVAILABLE ON MY YOUTUBE(IBADJANISKILLS)**
+## TUTORIAL AVAILABLE ON MY YOUTUBE(IBADJANISKILLS)
