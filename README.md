@@ -1,3 +1,5 @@
+## CLAYTON SCRIPT BY MI CYBER WARRIOR 
+## JOIN HERE https://t.me/claytoncoinbot/game?startapp=6631952857
 ## Features
 
   - Auto Get Account Information
@@ -16,10 +18,10 @@
 pkg install python rust git -y
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Clayton-v2.git
+   git clone https://github.com/Ibaadkhan046/Clayton-MICyberWarrior-.git
    ```
    ```bash
-   cd Clayton-v2
+   cd Clayton-MICyberWarrior-
    ```
 
 2. **Instal Requirements:**
@@ -34,4 +36,4 @@ pkg install python rust git -y
 ```bash
 python bot.py
 ```
-**TUTORIAL AVAILABLE ON MY YT**
+**TUTORIAL AVAILABLE ON MY YOUTUBE(IBADJANISKILLS)**
