@@ -41,7 +41,7 @@ $blue = "34";
 // Function to print banner
 function printBanner() {
     global $green;
-    $banner = "
+    $banner =
 -------------------------------------------------
 ██ ███████ ███████ ████████
 ██ ██   ██ ██   ██ ██    ██
