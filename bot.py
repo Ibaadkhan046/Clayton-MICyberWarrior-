@@ -1,4 +1,3 @@
-}
 from aiohttp import (
     ClientResponseError,
     ClientSession,
