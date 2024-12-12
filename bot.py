@@ -1,31 +1,3 @@
-// Function to print banner
-function printBanner() {
-    global $green;
-    $banner = "
--------------------------------------------------
-██ ███████ ███████ ████████
-██ ██   ██ ██   ██ ██    ██
-██ ███████ ███████ ██    ██
-██ ██   ██ ██   ██ ██    ██
-██ ███████ ██   ██ ████████
--------------------------------------------------
-
-     - Clayton Script-
-     
-              - VERSION 2.0 -
-    
-- MADE BY : Ibad (MI CYBER WARRIOR)
-- Telegram: @MICYBERWARRIOR 
-- channel: https://t.me/MICYBERWARRIOR 
-
-- Note: If you encounter the issue \"URL not found\"
-  kindly ignore it.  
-- PX Points will be added to your account within 20 seconds.
-
--------------------------------------------------
-
-";
-    echo printColored($banner, $green);
 }
 from aiohttp import (
     ClientResponseError,
